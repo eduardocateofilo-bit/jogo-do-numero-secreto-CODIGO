@@ -1,6 +1,6 @@
 let listaDeNumerosSorteados=  [];
 let numeroLimite = 10;
-let numeroSecreto = parseInt(Math.random() * 11);
+let numeroSecreto = parseInt(Math.random() * 10+1);
 let tentativas = 1;
 
 
